@@ -13,7 +13,9 @@ class ALGORITHM : public ::testing::Test
  * 我可能对排列组合的知识淡忘了。你有什么见解?
  */
 
-int maxProfit(int* prices, int pricesSize) {}
+int maxProfit(int* prices, int pricesSize) {
+    return -1;
+}
 
 TEST_F(ALGORITHM, maxProfit)
 {
